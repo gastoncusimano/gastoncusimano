@@ -1,5 +1,4 @@
 # FullStack Engineer
-<img src="https://github.com/gastoncusimano/gastoncusimano/blob/main/beeDis-b.png" />
 ---
 
 ### <a href="https://github.com/gastoncusimano?tab=repositories" >Ver todos los repositorios</a>
